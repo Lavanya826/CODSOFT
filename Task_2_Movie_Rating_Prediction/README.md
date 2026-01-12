@@ -1,4 +1,5 @@
 🎬 Movie Rating Prediction with Machine Learning
+
 📌 Project Description
 
 This project is part of my Data Science Internship at CodSoft.
